@@ -492,16 +492,12 @@ to be documented
 Special Thanks to Illusion for spending a few hours proselytizing enums that are also have anonymous method
 implementations on their constructor.
 
-## License
+---
 
-EliteMobs is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full text.
+## 📄 License & Upstream Attribution
 
-## ⚖️ Upstream Attribution & License / Licencia y Créditos
+This project is a sovereign fork maintained by [**JackStar6677-1**](https://github.com/JackStar6677-1) under [**DrakesCraft Labs**](https://github.com/DrakesCraft-Labs).
 
-- **Original Project / Upstream**: Slimefun4 Community Addon.
-- **Port & Maintenance**: DrakesCraft Labs team (Compatibility for Paper / Purpur 1.21.11).
-- **License**: GPL-3.0 / MIT.
-- **Source Code**: [GitHub Repository](https://github.com/DrakesCraft-Labs/EliteMobs)
-- **Support & Issues**: [GitHub Issues](https://github.com/DrakesCraft-Labs/EliteMobs/issues) | [Discord](https://discord.gg/rv3vtXZTk7)
-
-*This project is an open-source derivative work maintained by DrakesCraft Labs under the terms of its original license. All original assets and concepts belong to their respective creators.*
+- **Original Project:** Created by the upstream authors and the open-source community.
+- **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
