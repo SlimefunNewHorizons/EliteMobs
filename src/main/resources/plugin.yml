@@ -1,7 +1,7 @@
 name: EliteMobs
 version: ${version}
 authors: [MagmaGuy, JackStar]
-website: https://github.com/DrakesCraft-Labs/EliteMobs
+website: https://github.com/SlimefunNewHorizons/EliteMobs
 main: com.magmaguy.elitemobs.EliteMobs
 api-version: '1.21.4'
 softdepend:
